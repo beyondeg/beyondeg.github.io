@@ -607,3 +607,7 @@ h6,
 #header2-f .mbr-section-title {
   text-align: left;
 }
+/*custom css*/
+.btn-social{
+	padding:10px !important;
+}
